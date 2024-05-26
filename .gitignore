@@ -7,8 +7,9 @@ __pycache__/
 *.so
 
 # model result
-src/AES/results/
-src/AES/saved_model/
+src/results/
+src/saved_model/
+src/logs/
 
 # Distribution / packaging
 .Python
